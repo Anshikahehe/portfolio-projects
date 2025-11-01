@@ -36,7 +36,7 @@ Built a Power BI dashboard to visualize engagement metrics, follower growth, and
 🔹 **Patient Management System (Python, MySQL, Tkinter)**  
 Developed a GUI-based application to manage patient records and database operations efficiently.  
 
-## 🧰 Tools & Technologies  
+##  Tools & Technologies  
 
 **Languages:** Python, SQL, R  
 **Libraries:** Pandas, NumPy, Matplotlib, Scikit-learn  
@@ -44,7 +44,7 @@ Developed a GUI-based application to manage patient records and database operati
 **Statistical Methods:** Regression, ANOVA, Time Series Forecasting, Design of Experiments (DoE)  
 **Databases & Tools:** MySQL Connector, Jupyter Notebook, SAS  
 
-## 🧠 About Me  
+##  About Me  
 
 🎓 B.Sc. in Applied Statistics & Data Analytics – Mithibai College, Mumbai  
 📈 Interested in data storytelling, business insights, and predictive modeling  
