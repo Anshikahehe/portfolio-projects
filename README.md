@@ -1,4 +1,5 @@
-# 👩‍💻 Anshika Panwar – Data Analytics & Statistics Portfolio  
+# 👩‍💻 Anshika Panwar 
+Data Analytics & Statistics Portfolio  
 
 Welcome to my GitHub portfolio!  
 I’m an Applied Statistics & Data Analytics student passionate about uncovering insights through data visualization, analytics, and statistical modeling.  
